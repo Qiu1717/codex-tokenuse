@@ -1,0 +1,10 @@
+{
+  "name": "codex-tokenuse",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Build-time download of the pinned ccusage native runtime",
+  "license": "MIT",
+  "dependencies": {
+    "ccusage": "20.0.32"
+  }
+}
